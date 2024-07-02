@@ -1,0 +1,19 @@
+{
+  "name": "javascript-and-me",
+  "version": "1.0.0",
+  "description": "me playing with javascript",
+  "main": "day1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.2",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
